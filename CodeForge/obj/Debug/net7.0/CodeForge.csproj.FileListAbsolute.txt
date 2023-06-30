@@ -1,0 +1,12 @@
+c:\Users\MBARKT3STO\Desktop\CodeForge\CodeForge\bin\Debug\net7.0\CodeForge.deps.json
+c:\Users\MBARKT3STO\Desktop\CodeForge\CodeForge\bin\Debug\net7.0\CodeForge.dll
+c:\Users\MBARKT3STO\Desktop\CodeForge\CodeForge\bin\Debug\net7.0\CodeForge.pdb
+c:\Users\MBARKT3STO\Desktop\CodeForge\CodeForge\obj\Debug\net7.0\CodeForge.csproj.AssemblyReference.cache
+c:\Users\MBARKT3STO\Desktop\CodeForge\CodeForge\obj\Debug\net7.0\CodeForge.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MBARKT3STO\Desktop\CodeForge\CodeForge\obj\Debug\net7.0\CodeForge.AssemblyInfoInputs.cache
+c:\Users\MBARKT3STO\Desktop\CodeForge\CodeForge\obj\Debug\net7.0\CodeForge.AssemblyInfo.cs
+c:\Users\MBARKT3STO\Desktop\CodeForge\CodeForge\obj\Debug\net7.0\CodeForge.csproj.CoreCompileInputs.cache
+c:\Users\MBARKT3STO\Desktop\CodeForge\CodeForge\obj\Debug\net7.0\CodeForge.dll
+c:\Users\MBARKT3STO\Desktop\CodeForge\CodeForge\obj\Debug\net7.0\refint\CodeForge.dll
+c:\Users\MBARKT3STO\Desktop\CodeForge\CodeForge\obj\Debug\net7.0\CodeForge.pdb
+c:\Users\MBARKT3STO\Desktop\CodeForge\CodeForge\obj\Debug\net7.0\ref\CodeForge.dll
